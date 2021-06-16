@@ -12,5 +12,5 @@ I'm Gustavo, a 22 years old developer from Brazil.
 - 💽 MySQL, SQL
 
 ## Contact
-- [Gmail](gustavo.santos.dev99@gmail.com.br)
+- [Gmail](mailto:gustavo.santos.dev99@gmail.com.br)
 - [@guhsantos99](https://www.instagram.com/guhsantos99/) on Instagram
