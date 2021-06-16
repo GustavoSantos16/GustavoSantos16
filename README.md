@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](https://www.visiteosusa.com.br/sites/default/files/styles/hero_l_x2/public/images/hero_media_image/2016-12/NYC-Underrated-Parks-HERO.jpg?itok=6krbYR1W)](https://github.com/GustavoSantos16/GustavoSantos16)
 
 <!--
 **GustavoSantos16/GustavoSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
