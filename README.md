@@ -6,7 +6,7 @@
 I'm Gustavo, a 22 years old developer from Brazil.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, Java
+- 👨‍💻 TypeScript, JavaScript, PHP, Java, Node
 - ⚙️ Ionic, Angular, React, React Native
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL
