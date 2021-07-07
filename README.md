@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Gustavo, a 22 years old developer from Brazil.
+I'm Gustavo, a 22 years old developer.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, Java, Node
