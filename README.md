@@ -13,4 +13,3 @@ I'm Gustavo, a 22 years old developer.
 
 ## Contact
 - [Gmail](mailto:gustavo.santos.dev99@gmail.com.br)
-- [@guhsantos99](https://www.instagram.com/guhsantos99/) on Instagram
