@@ -1,6 +1,5 @@
-<div style="display: flex; align-items: center">
-## Gustavo dos Santos <img  height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-256/ninja-1659490-1410012.png">
-</div>
+## Gustavo dos Santos <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-256/ninja-1659490-1410012.png">
+
 <a href="https://github.com/GustavoSantos16" id="link-perfil" style="text-decoration: none !important;">
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurferrera&layout=compact&langs_count=16&theme=dracula"/>
