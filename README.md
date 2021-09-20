@@ -1,4 +1,4 @@
-## Gustavo dos Santos 🥷
+## Gustavo dos Santos <img  height="22" width="22" src="https://cdn.iconscout.com/icon/free/png-256/ninja-1659490-1410012.png">
 
 <a href="https://github.com/GustavoSantos16" id="link-perfil" style="text-decoration: none !important;">
  <div>
