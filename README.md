@@ -15,10 +15,9 @@
     <img align="center" alt="Gustavo-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
     <img align="center" alt="Gustavo-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Gustavo-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Gustavo-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Gustavo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/react-original.svg">
-    <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/python-original.svg">
-    <img align="center" alt="Gustavo-Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/jquery-original.svg">
+    <img align="center" alt="Gustavo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Gustavo-Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
    
 
 
