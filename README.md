@@ -1,4 +1,4 @@
-<img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-256/ninja-1659490-1410012.png"><br> 
+<img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-256/ninja-1659490-1410012.png" title="Ninja"><br> 
 ## Gustavo dos Santos 
 
 <a href="https://github.com/GustavoSantos16" id="link-perfil" style="text-decoration: none !important;"> 
