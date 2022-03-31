@@ -27,5 +27,4 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/gustavo-santos-98096a143/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/gustavosantos.js/" target="blank"><img src="https://www.otmizacomunicacao.com.br/wp-content/uploads/2019/02/Instagram-Banner-Logo-de-Instagram-vector-logo-instagram-sin-fondo-1000x480.gif" target="_blank"></a> 
 </div>
