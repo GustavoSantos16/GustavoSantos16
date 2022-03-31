@@ -2,9 +2,6 @@
 ## Gustavo dos Santos 
 
 <a href="https://github.com/GustavoSantos16" id="link-perfil" style="text-decoration: none !important;"> 
- <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSantos16&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   <div style="display: inline_block"><br>
      <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Gustavo-Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
