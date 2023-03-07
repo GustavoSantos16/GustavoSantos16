@@ -27,7 +27,7 @@
   
   https://gustavosantosjs.netlify.app/
  
-<div style="display:flex;"> 
+<div> 
   <a href="https://www.linkedin.com/in/gustavo-santos-98096a143/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    <a href="https://www.instagram.com/gustavosantos.js/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
