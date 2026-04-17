@@ -11,7 +11,7 @@
 </div>
 
 <a href="https://github.com/GustavoSantos16" id="link-perfil" style="text-decoration: none !important;"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
      <img align="center" alt="Gustavo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Gustavo-Ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
     <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
